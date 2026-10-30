@@ -5,7 +5,7 @@
 
 Upload 512x512 png pic via FTP to "/user/appmeta/PPSA0165x"
 
-upload 1920x1080 dds pic via FTP to "/user/appmeta/PPSA01650"
+upload 1920x1080 dds pic via FTP to "/user/appmeta/PPSA0165x"
 
 If you are using 3 Y2JB versions, only one background is activated at once (The recent Y2JB accessed)
 
