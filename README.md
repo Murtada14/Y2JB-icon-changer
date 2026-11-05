@@ -1,12 +1,19 @@
-<img width="458" height="603" alt="image" src="https://github.com/user-attachments/assets/5c00b589-b852-4f2b-9f17-c3076471e8c2" />
+<img width="448" height="643" alt="image" src="https://github.com/user-attachments/assets/fb777133-323d-4572-b515-b0360a18d7ac" />
 
-<img width="720" height="1600" alt="Y2JB icon changer" src="https://github.com/user-attachments/assets/b0634db1-a817-44f9-83c0-68ddb85991c2" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 7 31 00 PM" src="https://github.com/user-attachments/assets/861e3fab-3d95-4442-8cfc-e4da6becba93" />
 
+Features:
 
-Upload 512x512 png pic via FTP to "/user/appmeta/PPSA0165x"
+-Changing Y2JB icons
 
-upload 1920x1080 dds pic via FTP to "/user/appmeta/PPSA0165x"
+-Changing Y2JB background (one background apply to all YT versions)
 
-If you are using 3 Y2JB versions, only one background is activated at once (The recent Y2JB accessed)
+-Upload download0.dat file to a single version or all versions at once
 
-Performing a database rebuild will revert back to the original icons and backgrounds
+-Download download0.dat file from itsPLK github
+
+!Performing a database rebuild will revert back to the original icons and backgrounds!
+
+Credits:
+
+Gezine, itsPLK, All devs contributed
