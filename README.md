@@ -16,4 +16,4 @@ Features:
 
 Credits:
 
-Gezine, itsPLK, All devs contributed
+Gezine, itsPLK, drakmorm and All devs contributed
